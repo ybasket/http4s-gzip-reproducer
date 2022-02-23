@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: http4s-gzip-reproducer
+  annotations:
+    github.com/project-slug: ybasket/http4s-gzip-reproducer
+spec:
+  type: other
+  lifecycle: unknown
+  owner: backstage
